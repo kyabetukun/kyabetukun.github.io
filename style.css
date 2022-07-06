@@ -1,5 +1,6 @@
 * {
   margin:0; padding:0;
+  background-color: thistle;
 }
 
 header { 
@@ -10,11 +11,16 @@ header {
   text-align: center;
 }
 
-.selfintroduction {
-  text-align: center;
-}
 
 header { 
   text-align: center;
   color:blue;
+}
+
+.selfintroduction {
+  text-align: center;
+}
+
+.title{
+  color: yellow;
 }
