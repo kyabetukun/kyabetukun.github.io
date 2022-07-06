@@ -1,6 +1,6 @@
 * {
   margin:0; padding:0;
-  background-color: thistle;
+  background-color: azure;
 }
 
 header { 
@@ -22,5 +22,5 @@ header {
 }
 
 .title{
-  color: yellow;
+  color:coral;
 }
