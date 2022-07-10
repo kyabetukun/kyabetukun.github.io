@@ -24,3 +24,11 @@ header {
 .title{
   color:coral;
 }
+
+.gazou{
+  text-align: center;
+}
+.gazou img{
+  width:300px;
+  height:500px;
+}
